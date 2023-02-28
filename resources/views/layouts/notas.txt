@@ -1,0 +1,3 @@
+En esta carpeta se guardan todas las plantillas, puede tener cualquier nombre.
+
+Para ser uso de la plantillas usamos la palabra de blade extens
